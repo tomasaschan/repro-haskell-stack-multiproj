@@ -1,0 +1,20 @@
+/workspaces/stack-multiproj-repo/ChangeLog.md:
+  hash: 41cd7d7eb5c03a4023f6206881cca744f119027d88041313c68921443421bfa2
+  size: 45
+  modtime: 1597868483
+/workspaces/stack-multiproj-repo/README.md:
+  hash: 23e83d2ebe3340ace3e76a58229d563b512b49f01960de3b54c7d145901554b5
+  size: 8
+  modtime: 1597868483
+/workspaces/stack-multiproj-repo/src/Lib.hs:
+  hash: 11d6d255cb397fa45980eb516ea685146565d9de2108c4eea356ea41db8364be
+  size: 88
+  modtime: 1597868483
+/workspaces/stack-multiproj-repo/package.yaml:
+  hash: 8040c59520234dc29acc6d552429b7b439e6bd8b2a430221f00459e3cb683ee4
+  size: 1156
+  modtime: 1597868516
+/workspaces/stack-multiproj-repo/repro.cabal:
+  hash: 02a42c56aced91eb4ceeec0bdf576eb9a8d21aa484207793ed55977f5701698c
+  size: 1464
+  modtime: 1597868483
